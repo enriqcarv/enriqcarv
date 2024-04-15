@@ -1,4 +1,4 @@
-## Hey guys, eu sou Enrique Carvalho,  de programação e tecnologia!
+## Hey guys, eu sou Enrique Carvalho,  apaixonado por programação e tecnologia!
 
 Estou aprimorando meus conhecimentos nas tecnologias abaixo, por meio do github colocarei todos os meus projetos e atualizarei com os melhores.
 
