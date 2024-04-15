@@ -1,6 +1,6 @@
 ## Hey guys, eu sou Enrique Carvalho,  de programação e tecnologia!
 
-## Estou aprimorando meus conhecimentos nas tecnologias abaixo, por meio do github colocarei todos os meus projetos e atualizarei com os melhores.
+Estou aprimorando meus conhecimentos nas tecnologias abaixo, por meio do github colocarei todos os meus projetos e atualizarei com os melhores.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="enriq-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
